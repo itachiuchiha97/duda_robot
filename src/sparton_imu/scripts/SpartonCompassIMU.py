@@ -287,3 +287,5 @@ if __name__ == '__main__':
         D_Compass.close() #Close D_Compass serial port
     except rospy.ROSInterruptException:
         pass
+
+#dasdasd
